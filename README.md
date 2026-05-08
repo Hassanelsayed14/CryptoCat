@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ransomware_project (educational / defensive repo)
 
 This workspace appears to contain **two distinct components**:
@@ -41,3 +42,6 @@ If your goal is to use only the defensive tooling, focus on `dnstwist/` and igno
 - `docs/PROJECT_OVERVIEW.md`: What’s in this repo and how it relates.
 - `docs/SAFETY.md`: Safe handling + high-level behaviors/IOCs for defenders.
 
+=======
+# Ransomware_project
+>>>>>>> 972a210f4e9a9c4f38b77750762a6f47d05125ae
