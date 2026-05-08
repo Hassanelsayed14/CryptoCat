@@ -1,4 +1,3 @@
-اتفضل — كوبي كل ده وحطه في الـ README:
 
 <div align="center">
 
@@ -142,16 +141,6 @@ cryptocat.exe --encrypt
 # Decrypt
 cryptocat.exe --decrypt
 
-
-👥 Team
-
-
-
-|Name                 |Role                       |Links                                                                                                                                                                                                                                                                    |
-|---------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Hassan el Sayed**  |Lead Developer & Researcher|[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hassan-elsayed-5a7098275) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@hassanelsayed30)|
-|**Ahmed Abdelsattar**|Co-Developer & Researcher  |—                                                                                                                                                                                                                                                                        |
-|**Mohamed Sameh**    |Co-Developer & Researcher  |—                                                                                                                                                                                                                                                                        |
 
 📚 Resources & References
 	•	MITRE ATT&CK Framework
